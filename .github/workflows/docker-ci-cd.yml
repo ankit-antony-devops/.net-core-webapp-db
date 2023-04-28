@@ -2,7 +2,7 @@ name: docker-ci-cd
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
