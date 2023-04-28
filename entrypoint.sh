@@ -1,5 +1,4 @@
 #!/usr/bin/env sh
-
 case "$ENVIRONMENT" in
    "dev") dotnet watch run;;
    "development") dotnet watch run;;
